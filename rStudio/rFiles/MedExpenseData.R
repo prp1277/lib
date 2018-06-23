@@ -26,4 +26,47 @@ summary(regModel2)              # R is able to define the strings as factors
 # All else equal, the cost of being a smoker increases by $23812.57
 # All else equal, the cost of being a male is $267.17 lower than being a female
 
+# Issue 3 - Creating New Variables
+# Obese => BMI > 30
+OBESE <- ifelse(bmi>30, 1, 0)
+regModel3<-lm(medical_expenses~age+OBESE+children+SMOKER+GENDER)
+summary(regModel3)
 
+# Issue 4 - Creating Interaction Variables
+# What about an obese smoker?-> value = [Class(obese)*Class(smoker)]
+OBESE_SMOKER <- (OBESE*SMOKER)
+OBESE_SMOKER # This satisfies 2 variables / conditions
+
+regModel4<-lm(medical_expenses~age+OBESE+children+SMOKER+GENDER+OBESE_SMOKER)
+summary(regModel4)
+# The model keeps getting more accurate with each step (Intercept Estimate)
+# Always make sure to include the parents when you create new children variables
+# TASK-> Forecast the medical expensees for a 40 yr old female non-obese smoker with no children
+# = -2593 + 273(40) + 88(0) + 448(0) + 13383(1) - 635(0) + 19998(0*1) = 21,710
+
+# Issue 5 - Modeling Non-Linear Effects
+# Polynomial or Quadratic Regression
+# Linear Function -> Y = B0 + B1X1
+# NonLinear function -> Y = B0 + B1X1 + B2X2
+AGE2<-(age*age)
+AGE2
+regModel5 <- lm(medical_expenses~age+AGE2+OBESE+children+SMOKER+GENDER+OBESE_SMOKER)
+summary(regModel5)
+
+# Issue 6 - Model Selection - Using Regression Subsets
+# Medical Expenses = fn(age, AGE2, OBESE, BMI, children, SMOKER, GENDER, OBESE_SMOKER)
+# 1 variable model - 8 possible models
+# 2 variable model - See OneNote
+newData<-data.frame(age, AGE2, bmi, OBESE, OBESE_SMOKER, SMOKER, GENDER, children)
+
+library(leaps)
+
+regModel6<-regsubsets(medical_expenses~age+AGE2+bmi+OBESE+children+SMOKER+GENDER, data=newData, nvmax=7)
+summary(regModel6)
+# Best 1 variable model -> Smoker
+# Best 2 variable model -> age2, smoker
+regSummary<-summary(regModel6)
+names(regModel6)
+
+regSummary$adjr2
+# Judging by the adjR2 this model gets overfitted after age, obese, smoker
