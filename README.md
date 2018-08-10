@@ -8,6 +8,26 @@ I've been true to my word, clipping things from online, sending myself text-mess
 
 In my opinion, OneNote is the most underutilized Microsoft Application, so I am planning on writing a blog post about this process and some of the other everyday things I use OneNote for.
 
+
+| Table of Contents | Description |
+|:---------|:------|
+| [General Resources](https://github.com/prp1277/resources#resources) | Helpful links generally for the Kansas City area |
+| [Excel / Power BI](https://github.com/prp1277/resources#excel-and-power-bi) | Articles and resources that I've used or set aside for later |
+| [VBA](https://github.com/prp1277/resources#VBA) | Sources to help learn VBA  |
+| [SQL](https://github.com/prp1277/resources#SQL) | Sources to learn SQL |
+| [Outlook](https://github.com/prp1277/resources#Outlook) | Connectors for Outlook Add-ins |
+| [Finance](https://github.com/prp1277/resources#Finance) | Articles I've set aside  |
+| [Compatibility Results](https://github.com/prp1277/resources#Compatibility) | Results from Personality Tests |
+| [Web Development](https://github.com/prp1277/resources#Web-Dev) | Tools and sites to help learn how to build websites |
+| [React](https://github.com/prp1277/resources#React) | JavaScript React resources and tutorials |
+| [APIs](https://github.com/prp1277/resources#APIs) | Lists of APIs for possible use |
+| [Gatsby](https://github.com/prp1277/resources#Gatsby) | GatsbyJS links for building a static React App |
+| [Git](https://github.com/prp1277/resources#Git) | Sources for learning Git and version control |
+| [R](https://github.com/prp1277/resources#R) | Helpful R resources and interesting applications |
+| [Python](https://github.com/prp1277/resources#Python) | How to scrape websites with Pandas |
+| [Network / Domain](https://github.com/prp1277/resources#network--domain) | Articles explaining networks and domain management |
+| [Other / Misc.](https://github.com/prp1277/resources#other-misc) | Things that don't fit in the other categories |
+
 ## Resources
 
 - [KCTech Partners](http://www.kctechcouncil.com/partners) <br/>
@@ -16,14 +36,48 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 - [/r/ Programming Principals that Helped Me](https://www.reddit.com/r/learnprogramming/comments/8kvo5s/programming_principles_that_helped_me/?st=JHFQLU5J&sh=aa898404) <br/>
 - [Wikipedia Random Article](https://en.wikipedia.org/wiki/Special:Random) <br/>
 
-## React
+## Excel and Power BI
 
-- [React JavaScript Tutorial in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial) <br/>
-- [Passing JSON Objects as Parameters ](https://stackoverflow.com/questions/5865442/how-to-pass-json-object-as-a-parameter-to-another-method) <br/>
+- [Power BI Capabilities in Excel](https://dev.office.com/blogs/azure-machine-learning-javascript-custom-functions-and-power-bi-custom-visuals-further-expand-developers-capabilities-with-excel) <br/>
+- [Text Analysis in Power BI with Cognitive services](https://www.youtube.com/watch?v=WWod8ETS7J8) <br/>
+- [Create File List Macro](https://www.myonlinetraininghub.com/Create-Hyperlinked-List-of-Files-in-Subfolders) <br/>
+- [Chandoo Dashboard Templates](http://chandoo.org/dbt/index.html) <br/>
+- [Excel Add-Ins Tutorial](https://docs.microsoft.com/en-us/office/dev/add-ins/tutorials/excel-tutorial) <br/>
+- [DIYBI-PowerQuery](C:\Users\prp12.000\OneDrive\Documents\Reinhart\Resources\DIYBI-PowerQuery) <br/>
+- [Power BI Geocoding](https://msdn.microsoft.com/en-us/library/ff701714.aspx) <br/>
+- [Chris Webb Crossjoin BI](https://blog.crossjoin.co.uk/) <br/>
+
+## VBA
+
+- [Best Sites to Learn VBA](https://blog.cometdocs.com/the-best-places-to-learn-vba-online) <br/>
+- [Excel Pratique Intro](https://www.excel-pratique.com/en/vba/introduction.php) <br/>
+  - [Selections](https://www.excel-pratique.com/en/vba/selections.php) <br/>
+  - [Variables](https://www.excel-pratique.com/en/vba/variables.php) <br/>
+  - [Conditions](https://www.excel-pratique.com/en/vba/conditions.php) <br/>
+  - [Loops](https://www.excel-pratique.com/en/vba/loops.php) <br/>
+  - [Procedures & Functions](https://www.excel-pratique.com/en/vba/procedures_functions.php) <br/>
+  - [Dialog Boxes](onenote:) <br/>
+  - [Workbook Events](https://www.excel-pratique.com/en/vba/workbook_events.php) <br/>
+  - [User Forms](https://www.excel-pratique.com/en/vba/userform.php) <br/>
+  - [VBA Arrays](https://www.excel-pratique.com/en/vba/vba_arrays.php) <br/>
+  - [Functions](https://www.excel-pratique.com/en/vba/vba_functions.php) <br/>
+  - [Tricks & Shortcuts](https://www.excel-pratique.com/en/vba/vba_tricks.php) <br/>
+- [Going from VBA to JS](https://blogs.msmvps.com/wordmeister/category/vba-js/) <br/>
+- [What's New in VBA 2016](https://msdn.microsoft.com/en-us/vba/office-shared-vba/articles/what-s-new-for-vba-in-office-2016) <br/>
+
+## SQL
+
+- [SQL Cheat sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html) <br/>
+- [SQL Tutorial](http://sol.gfxile.net/g3/) <br/>
 
 ## Outlook
 
 - [Outlook Connectors](https://outlook.office.com/connectors/Home/Login?Client=Win32_Outlook&MailboxAddress=PowellPR%40hawks.rockhurst.edu&Culture=en-US&MailboxType=User&Category=Mail&src=inbox) <br/>
+
+## Finance
+
+- [Econometrics](https://www.bing.com/search?q=exconometrics&form=EDGTCT&qs=PF&cvid=294feca3c6e840998d1faa3fda70ae45&cc=US&setlang=en-US&PC=LSJS) <br/>
+- [Klipfolio](https://www.klipfolio.com/) <br/>
 
 ## Compatibility
 
@@ -47,6 +101,11 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 - [Bootsrapping](https://bootsnipp.com/) <br/>
 - [PatP0w Reddit Feed](https://www.reddit.com/.json?feed=4e6cf8d760d7d15b9f9b50288143800681feed51&user=PATP0W) <br/>
 
+## React
+
+- [React JavaScript Tutorial in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial) <br/>
+- [Passing JSON Objects as Parameters ](https://stackoverflow.com/questions/5865442/how-to-pass-json-object-as-a-parameter-to-another-method) <br/>
+
 ## APIs
 
 - [Twitter APIs](https://developer.twitter.com/en/use-cases/analyze) <br/>
@@ -54,53 +113,14 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 - [IEX Documentation](https://iextrading.com/developer/) <br/>
 - [BF Tracker](https://battlefieldtracker.com/bf1/profile/xbox/imamiget1277/live) <br/>
 
-## Finance
+## Gatsby
 
-- [Econometrics](https://www.bing.com/search?q=exconometrics&form=EDGTCT&qs=PF&cvid=294feca3c6e840998d1faa3fda70ae45&cc=US&setlang=en-US&PC=LSJS) <br/>
-- [Klipfolio](https://www.klipfolio.com/) <br/>
-
-## Excel and Power BI
-
-- [Power BI Capabilities in Excel](https://dev.office.com/blogs/azure-machine-learning-javascript-custom-functions-and-power-bi-custom-visuals-further-expand-developers-capabilities-with-excel) <br/>
-- [Text Analysis in Power BI with Cognitive services](https://www.youtube.com/watch?v=WWod8ETS7J8) <br/>
-- [Create File List Macro](https://www.myonlinetraininghub.com/Create-Hyperlinked-List-of-Files-in-Subfolders) <br/>
-- [Chandoo Dashboard Templates](http://chandoo.org/dbt/index.html) <br/>
-- [Excel Add-Ins Tutorial](https://docs.microsoft.com/en-us/office/dev/add-ins/tutorials/excel-tutorial) <br/>
-- [DIYBI-PowerQuery](C:\Users\prp12.000\OneDrive\Documents\Reinhart\Resources\DIYBI-PowerQuery) <br/>
-- [Power BI Geocoding](https://msdn.microsoft.com/en-us/library/ff701714.aspx) <br/>
-- [Chris Webb Crossjoin BI](https://blog.crossjoin.co.uk/) <br/>
-
-## VBA
-
-- [Best Sites to Learn VBA](https://blog.cometdocs.com/the-best-places-to-learn-vba-online) <br/>
-- [Excel Pratique Intro](https://www.excel-pratique.com/en/vba/introduction.php) <br/>
-- [Selections](https://www.excel-pratique.com/en/vba/selections.php) <br/>
-- [Variables](https://www.excel-pratique.com/en/vba/variables.php) <br/>
-- [Conditions](https://www.excel-pratique.com/en/vba/conditions.php) <br/>
-- [Loops](https://www.excel-pratique.com/en/vba/loops.php) <br/>
-- [Procedures & Functions](https://www.excel-pratique.com/en/vba/procedures_functions.php) <br/>
-- [Dialog Boxes](onenote:) <br/>
-- [Workbook Events](https://www.excel-pratique.com/en/vba/workbook_events.php) <br/>
-- [User Forms](https://www.excel-pratique.com/en/vba/userform.php) <br/>
-- [VBA Arrays](https://www.excel-pratique.com/en/vba/vba_arrays.php) <br/>
-- [Functions](https://www.excel-pratique.com/en/vba/vba_functions.php) <br/>
-- [Tricks & Shortcuts](https://www.excel-pratique.com/en/vba/vba_tricks.php) <br/>
-- [Going from VBA to JS](https://blogs.msmvps.com/wordmeister/category/vba-js/) <br/>
-- [What's New in VBA 2016](https://msdn.microsoft.com/en-us/vba/office-shared-vba/articles/what-s-new-for-vba-in-office-2016) <br/>
-
-## SQL
-
-- [SQL Cheat sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html) <br/>
-- [SQL Tutorial](http://sol.gfxile.net/g3/) <br/>
+- [Using Youtube as a Data Source](https://dzone.com/articles/using-youtube-as-a-data-source-in-gatsbyjs) <br/>
 
 ## Git
 
 - [Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/) <br/>
 - [Git-It](http://jlord.us/git-it/index.html) <br/>
-
-## Gatsby
-
-- [Using Youtube as a Data Source](https://dzone.com/articles/using-youtube-as-a-data-source-in-gatsbyjs) <br/>
 
 ## R
 
