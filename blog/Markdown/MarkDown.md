@@ -1,5 +1,23 @@
 ﻿# Welcome to GitHub Pages
 
+```jsx
+/**
+ *      Excel 2016 Default Colors
+ * Followed Hyperlink: 149, 79, 114 - Purple - #954F72
+ * Hyperlink: 5, 99, 193 - Regular Blue - #0563c1
+ * Accent 6: 112, 173, 71 - Foam Green
+ * Accent 5: 91, 155, 213 - Aqua
+ * Accent 4: 255, 192, 0 - Yellow
+ * Accent 3: 165, 165, 165 - Darker Gray
+ * Accent 2: 237, 125, 49 - Orange
+ * Accent 1: 68, 114, 196 - Blue - #4472c4
+ * Text/Background - light 2: 231, 230, 230 - Gray - #E7E6E6
+ * Text/Background - dark 2: 68, 84, 106 - Pale-Blue - #44546A
+ * Text/Background - light 1: 255, 255, 255 - White - #ffffff
+ * Text/Background - dark 1: 0, 0, 0 - Black - #000000
+ */
+```
+
 You can use the [editor on GitHub](https://github.com/prp1277/prp1277.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -12,7 +30,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
