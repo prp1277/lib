@@ -1,32 +1,33 @@
-# Links 
+# Resources
 
 I started a `links` section in my personal OneNote Notebook on 5/14/2017 with the following mission statement:
 
->**"My goal is to create a database within OneNote so that I can more or less just do Ctrl+ F or E into the thing and it will be able to sift through my ADD memory and pull the information out"**
+> **"My goal is to create a database within OneNote so that I can more or less just do Ctrl+ F or E into the thing and it will be able to sift through my ADD memory and pull the information out"**
 
-I've been true to my word, clipping things from online, sending myself text-messages and emails etc. Every few months I clean up my notebook, deleting pages and adding their links to my links section. I still have a lot of cleaning up to do, but this is a collection of my "Resources". 
+I've been true to my word, clipping things from online, sending myself text-messages and emails etc. Every few months I clean up my notebook, deleting pages and adding their links to my links section. I still have a lot of cleaning up to do, but this is a collection of my "Resources".
 
 In my opinion, OneNote is the most underutilized Microsoft Application, so I am planning on writing a blog post about this process and some of the other everyday things I use OneNote for.
 
+# Resources and Links
 
-| Table of Contents | Description |
-|:---------|:------|
-| [General Resources](https://github.com/prp1277/resources#resources) | Helpful links generally for the Kansas City area |
+| Table of Contents                                                           | Description                                                  |
+| :-------------------------------------------------------------------------- | :----------------------------------------------------------- |
+| [General Resources](https://github.com/prp1277/resources#resources)         | Helpful links generally for the Kansas City area             |
 | [Excel / Power BI](https://github.com/prp1277/resources#excel-and-power-bi) | Articles and resources that I've used or set aside for later |
-| [VBA](https://github.com/prp1277/resources#VBA) | Sources to help learn VBA  |
-| [SQL](https://github.com/prp1277/resources#SQL) | Sources to learn SQL |
-| [Outlook](https://github.com/prp1277/resources#Outlook) | Connectors for Outlook Add-ins |
-| [Finance](https://github.com/prp1277/resources#Finance) | Articles I've set aside  |
-| [Compatibility Results](https://github.com/prp1277/resources#Compatibility) | Results from Personality Tests |
-| [Web Development](https://github.com/prp1277/resources#Web-Dev) | Tools and sites to help learn how to build websites |
-| [React](https://github.com/prp1277/resources#React) | JavaScript React resources and tutorials |
-| [APIs](https://github.com/prp1277/resources#APIs) | Lists of APIs for possible use |
-| [Gatsby](https://github.com/prp1277/resources#Gatsby) | GatsbyJS links for building a static React App |
-| [Git](https://github.com/prp1277/resources#Git) | Sources for learning Git and version control |
-| [R](https://github.com/prp1277/resources#R) | Helpful R resources and interesting applications |
-| [Python](https://github.com/prp1277/resources#Python) | How to scrape websites with Pandas |
-| [Network / Domain](https://github.com/prp1277/resources#network--domain) | Articles explaining networks and domain management |
-| [Other / Misc.](https://github.com/prp1277/resources#other-misc) | Things that don't fit in the other categories |
+| [VBA](https://github.com/prp1277/resources#VBA)                             | Sources to help learn VBA                                    |
+| [SQL](https://github.com/prp1277/resources#SQL)                             | Sources to learn SQL                                         |
+| [Outlook](https://github.com/prp1277/resources#Outlook)                     | Connectors for Outlook Add-ins                               |
+| [Finance](https://github.com/prp1277/resources#Finance)                     | Articles I've set aside                                      |
+| [Compatibility Results](https://github.com/prp1277/resources#Compatibility) | Results from Personality Tests                               |
+| [Web Development](https://github.com/prp1277/resources#Web-Dev)             | Tools and sites to help learn how to build websites          |
+| [React](https://github.com/prp1277/resources#React)                         | JavaScript React resources and tutorials                     |
+| [APIs](https://github.com/prp1277/resources#APIs)                           | Lists of APIs for possible use                               |
+| [Gatsby](https://github.com/prp1277/resources#Gatsby)                       | GatsbyJS links for building a static React App               |
+| [Git](https://github.com/prp1277/resources#Git)                             | Sources for learning Git and version control                 |
+| [R](https://github.com/prp1277/resources#R)                                 | Helpful R resources and interesting applications             |
+| [Python](https://github.com/prp1277/resources#Python)                       | How to scrape websites with Pandas                           |
+| [Network / Domain](https://github.com/prp1277/resources#network--domain)    | Articles explaining networks and domain management           |
+| [Other / Misc.](https://github.com/prp1277/resources#other-misc)            | Things that don't fit in the other categories                |
 
 ## Resources
 
@@ -35,6 +36,7 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 - [Library Special Populations](https://www.kclibrary.org/business-career/find-job/find-employment-special-populations) <br/>
 - [/r/ Programming Principals that Helped Me](https://www.reddit.com/r/learnprogramming/comments/8kvo5s/programming_principles_that_helped_me/?st=JHFQLU5J&sh=aa898404) <br/>
 - [Wikipedia Random Article](https://en.wikipedia.org/wiki/Special:Random) <br/>
+- [71 Links to Learn Code for Free](https://learntocodewith.me/posts/code-for-free/) <br/>
 
 ## Excel and Power BI
 
@@ -46,6 +48,7 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 - [DIYBI-PowerQuery](C:\Users\prp12.000\OneDrive\Documents\Reinhart\Resources\DIYBI-PowerQuery) <br/>
 - [Power BI Geocoding](https://msdn.microsoft.com/en-us/library/ff701714.aspx) <br/>
 - [Chris Webb Crossjoin BI](https://blog.crossjoin.co.uk/) <br/>
+- [Power BI and the Future for Modern and Enterprise BI](https://www.microsoft.com/en-us/businessapplicationssummit/video/BAS2018-204) <br/>
 
 ## VBA
 
@@ -56,7 +59,7 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
   - [Conditions](https://www.excel-pratique.com/en/vba/conditions.php) <br/>
   - [Loops](https://www.excel-pratique.com/en/vba/loops.php) <br/>
   - [Procedures & Functions](https://www.excel-pratique.com/en/vba/procedures_functions.php) <br/>
-  - [Dialog Boxes](onenote:) <br/>
+  - [Dialog Boxes](https://www.excel-pratique.com/en/vba/dialog_boxes.php) <br/>
   - [Workbook Events](https://www.excel-pratique.com/en/vba/workbook_events.php) <br/>
   - [User Forms](https://www.excel-pratique.com/en/vba/userform.php) <br/>
   - [VBA Arrays](https://www.excel-pratique.com/en/vba/vba_arrays.php) <br/>
@@ -69,6 +72,7 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 
 - [SQL Cheat sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html) <br/>
 - [SQL Tutorial](http://sol.gfxile.net/g3/) <br/>
+- [Graph Databases Will Save Your Life](https://www.youtube.com/watch?v=GekQqFZm7mA&t=204s) <br/>
 
 ## Outlook
 
@@ -138,7 +142,3 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 - [Solar Winds Network Monitoring](https://www.solarwinds.com/free-tools) <br/>
 - [Windows CLI](https://www.computerhope.com/issues/chusedos.htm) <br/>
 - [Shadow IT](https://wikipedia.org/wiki/Shadow_IT) <br/>
-
-## Other Misc.
-
-- [Miles Wedding Videos](https://1drv.ms/f/s!AoLkNBOSNnKyidYKmxhQYQddSx_bJA) <br/>
