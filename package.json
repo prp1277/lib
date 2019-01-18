@@ -2,21 +2,11 @@
   "name": "resources",
   "version": "1.0.0",
   "description": "Place for reference materials, cheat sheets, etc",
-  "main": "index.htm",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "author": "Patrick Powell",
+  "license": "MIT",
+  "homepage": "https://github.com/prp1277/resources#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prp1277/resources.git"
-  },
-  "keywords": [
-    "resources"
-  ],
-  "author": "Patrick Powell",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/prp1277/resources/issues"
-  },
-  "homepage": "https://github.com/prp1277/resources#readme"
+  }
 }
