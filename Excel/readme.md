@@ -1,3 +1,5 @@
+> This page is undergoing active development. If you experience any problems please email [prp1277@gmail.com](mailto:prp1277@gmail.com)
+
 Legend:
 
 | Symbol | Value       | Symbol | Value |
@@ -15,27 +17,21 @@ Legend:
  📁  datasets 🔪
  📁  img 🎴
  📂  PQ 📗
+ - 📁
+    - 📚 PDF Guides
  - 📁  PDF Guides
-    - 📚
- - 📁  Magic Tricks for Data Wizards V2 
-    - 📕
+    -  📕 PDFs
  - 📁  QueryWorkbooks 
-    - 💼
+    - 💼  Workbooks
  - 📁  utilities 
     - 📗  M and Power BI reference
-    - 📃
  📁  Reinhart Macros
- - 📁  National Accounts 
-    📃
- - 📁  Perfect Order 
-    📃
- - 📁  WMSlot 
-    📃
+ - 📁  National Accounts 📃
+ - 📁  Perfect Order 📃
+ - 📁  WMSlot 📃
  📁  Shortcuts and Formulas
- 📁  Templates 
-    📜
- 📁 VBA 
-    📘
+ 📁  Templates 📜
+ 📁 VBA 📘
 🔗  Lease Dates.xlsx
 🔗  Readme.md
 🔗  Timesheet.xlsx
