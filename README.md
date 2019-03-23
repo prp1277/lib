@@ -1,3 +1,6 @@
+![edit](https://img.shields.io/github/issues/prp1277/resources.svg?label=edit%20this%20page&logo=github&style=plastic)
+
+
 # Resources
 
 I started a `links` section in my personal OneNote Notebook on 5/14/2017 with the following mission statement:
