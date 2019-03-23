@@ -1,4 +1,4 @@
-![edit](https://img.shields.io/github/issues/prp1277/resources.svg?label=edit%20this%20page&logo=github&style=plastic)
+<a href="https://github.com/prp1277/resources/edit/master/README.md"><img src="https://img.shields.io/github/issues/prp1277/resources.svg?label=edit%20this%20page&logo=github&style=plastic" alt="edit"/></a>
 
 
 # Resources
