@@ -51,7 +51,10 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 - [DIYBI-PowerQuery](C:\Users\prp12.000\OneDrive\Documents\Reinhart\Resources\DIYBI-PowerQuery) <br/>
 - [Power BI Geocoding](https://msdn.microsoft.com/en-us/library/ff701714.aspx) <br/>
 - [Chris Webb Crossjoin BI](https://blog.crossjoin.co.uk/) <br/>
-- [Power BI and the Future for Modern and Enterprise BI](https://www.microsoft.com/en-us/businessapplicationssummit/video/BAS2018-204) <br/>
+- [Power BI and the Future for Modern and Enterprise BI](https://www.microsoft.com/en-us/businessapplicationssummit/video/BAS2018-204)
+- [ExcelTemplate.net](https://exceltemplate.net)
+
+<br/>
 
 ## VBA
 
