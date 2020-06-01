@@ -1,6 +1,5 @@
 <a href="https://github.com/prp1277/resources/edit/master/README.md"><img src="https://img.shields.io/github/issues/prp1277/resources.svg?label=edit%20this%20page&logo=github&style=plastic" alt="edit"/></a>
 
-
 # Resources
 
 I started a `links` section in my personal OneNote Notebook on 5/14/2017 with the following mission statement:
@@ -13,24 +12,24 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 
 # Resources and Links
 
-| Table of Contents | Description | 
-|:-----:|:-----:|
-| [General Resources](https://github.com/prp1277/resources#resources) | Helpful links generally for the Kansas City area             |
+|                              Table of Contents                              |                         Description                          |
+| :-------------------------------------------------------------------------: | :----------------------------------------------------------: |
+|     [General Resources](https://github.com/prp1277/resources#resources)     |       Helpful links generally for the Kansas City area       |
 | [Excel / Power BI](https://github.com/prp1277/resources#excel-and-power-bi) | Articles and resources that I've used or set aside for later |
-| [VBA](https://github.com/prp1277/resources#VBA) | Sources to help learn VBA |
-| [SQL](https://github.com/prp1277/resources#SQL) | Sources to learn SQL |
-| [Outlook](https://github.com/prp1277/resources#Outlook) | Connectors for Outlook Add-ins |
-| [Finance](https://github.com/prp1277/resources#Finance) | Articles I've set aside |
-| [Compatibility Results](https://github.com/prp1277/resources#Compatibility) | Results from Personality Tests |
-| [Web Development](https://github.com/prp1277/resources#Web-Dev) | Tools and sites to help learn how to build websites |
-| [React](https://github.com/prp1277/resources#React) | JavaScript React resources and tutorials |
-| [APIs](https://github.com/prp1277/resources#APIs) | Lists of APIs for possible use |
-| [Gatsby](https://github.com/prp1277/resources#Gatsby) | GatsbyJS links for building a static React App |
-| [Git](https://github.com/prp1277/resources#Git) | Sources for learning Git and version control |
-| [R](https://github.com/prp1277/resources#R) | Helpful R resources and interesting applications |
-| [Python](https://github.com/prp1277/resources#Python) | How to scrape websites with Pandas |
-| [Network / Domain](https://github.com/prp1277/resources#network--domain) | Articles explaining networks and domain management |
-| [Other / Misc.](https://github.com/prp1277/resources#other-misc) | Things that don't fit in the other categories |
+|               [VBA](https://github.com/prp1277/resources#VBA)               |                  Sources to help learn VBA                   |
+|               [SQL](https://github.com/prp1277/resources#SQL)               |                     Sources to learn SQL                     |
+|           [Outlook](https://github.com/prp1277/resources#Outlook)           |                Connectors for Outlook Add-ins                |
+|           [Finance](https://github.com/prp1277/resources#Finance)           |                   Articles I've set aside                    |
+| [Compatibility Results](https://github.com/prp1277/resources#Compatibility) |                Results from Personality Tests                |
+|       [Web Development](https://github.com/prp1277/resources#Web-Dev)       |     Tools and sites to help learn how to build websites      |
+|             [React](https://github.com/prp1277/resources#React)             |           JavaScript React resources and tutorials           |
+|              [APIs](https://github.com/prp1277/resources#APIs)              |                Lists of APIs for possible use                |
+|            [Gatsby](https://github.com/prp1277/resources#Gatsby)            |        GatsbyJS links for building a static React App        |
+|               [Git](https://github.com/prp1277/resources#Git)               |         Sources for learning Git and version control         |
+|                 [R](https://github.com/prp1277/resources#R)                 |       Helpful R resources and interesting applications       |
+|            [Python](https://github.com/prp1277/resources#Python)            |              How to scrape websites with Pandas              |
+|  [Network / Domain](https://github.com/prp1277/resources#network--domain)   |      Articles explaining networks and domain management      |
+|      [Other / Misc.](https://github.com/prp1277/resources#other-misc)       |        Things that don't fit in the other categories         |
 
 ## Resources
 
@@ -76,7 +75,8 @@ In my opinion, OneNote is the most underutilized Microsoft Application, so I am 
 
 ## SQL
 
-- [SQL Cheat sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html) <br/>
+- [@Luke Harrison's](https://twitter.com/webdevluke/) [SQL Cheat sheet](https://websitesetup.org/sql-cheat-sheet/) <br/>
+- [kdnugget's SQL Cheat sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html) <br/>
 - [SQL Tutorial](http://sol.gfxile.net/g3/) <br/>
 - [Graph Databases Will Save Your Life](https://www.youtube.com/watch?v=GekQqFZm7mA&t=204s) <br/>
 
